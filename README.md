@@ -1,4 +1,4 @@
-# mlkem-lattice-instrument
+# Lattice Cryptography Visualisations
 
 An interactive tool for looking at the real lattice geometry behind ML-KEM. It starts from the actual Module-LWE instance, not a generic 2D lattice. The 2D/3D views are projections; the full object is higher-dimensional and computed internally.
 
